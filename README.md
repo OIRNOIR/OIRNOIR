@@ -18,7 +18,7 @@ I am a Student and Full Stack Developer from the United States.
 
 ---
 
-### Languages and Tools :
+### Languages:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -27,9 +27,3 @@ I am a Student and Full Stack Developer from the United States.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OIRNOIR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
