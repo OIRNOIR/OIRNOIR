@@ -21,5 +21,5 @@ I am a Student and Full Stack Developer from the United States.
 ### Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
