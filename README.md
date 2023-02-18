@@ -10,7 +10,7 @@
 ### About Me :
 I am a Student and Full Stack Developer from the United States.
 
-- In my free time, I make Discord bots, such as my giveaway bot, [Cinnamon](https://cinnamon.gifts/).
+- In my free time, I make Discord bots, such as my giveaway bot, [Cinnamon](https://cinnamon.bot/).
 
 - How to reach me: [![Discord Badge](https://img.shields.io/badge/OIRNOIR%230032-5865F2?logo=Discord&logoColor=white&style=flat)](https://discord.gg/GnCHz2z6WK)
 
