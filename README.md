@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="https://oirnoir.dev/"><img src="https://oirnoir.dev/assets/PFP-Png-2048.png" width="100"/></a>
+  <a href="https://oirnoir.dev/"><img src="https://oirnoir.dev/assets/PFP-Png-2048.png" width="100" style="border-radius:50%;"/></a>
   <div id="badges">
     <a href="https://discord.gg/GnCHz2z6WK"><img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Badge"></a>
   </div>
@@ -13,6 +13,8 @@ I am a Student and Full Stack Developer from the United States.
 - In my free time, I make Discord bots, such as my giveaway bot, [Cinnamon](https://cinnamon.bot/).
 
 - How to reach me: [![Discord Badge](https://img.shields.io/badge/OIRNOIR%230032-5865F2?logo=Discord&logoColor=white&style=flat)](https://discord.gg/GnCHz2z6WK)
+
+- My website: https://oirnoir.dev/
 
 ---
 
