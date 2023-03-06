@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <a href="https://oirnoir.dev/"><img src="https://oirnoir.dev/assets/PFP-Png-2048.png" width="100" style="border-radius:50%;"/></a>
+  <a href="https://oirnoir.dev/"><img src="https://oirnoir.dev/assets/PFP-Png-2048.png" width="100"/></a>
+	<div>he/him</div>
   <div id="badges">
     <a href="https://discord.gg/GnCHz2z6WK"><img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Badge"></a>
   </div>
@@ -7,13 +8,13 @@
 
 ---
 
-### About Me :
+### About Me:
 I am a Student and Full Stack Developer from the United States.
 
-- In my free time, I make Discord bots, such as my giveaway bot, [Cinnamon](https://cinnamon.bot/).
-
-- How to reach me: [![Discord Badge](https://img.shields.io/badge/OIRNOIR%230032-5865F2?logo=Discord&logoColor=white&style=flat)](https://discord.gg/GnCHz2z6WK)
-
+- Hobbies:
+  - Coding
+  - Skiing
+  - Reading
 - My website: https://oirnoir.dev/
 
 ---
@@ -28,4 +29,19 @@ I am a Student and Full Stack Developer from the United States.
   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### Experience:
+
+- 2021 - Present: [Cinnamon Discord Bot](https://cinnamon.bot)
+- July - August 2022: [WackyWebM.js](https://github.com/OIRNOIR/WackyWebM)
+
+---
+
+### Contact:
+
+  - Discord: [OIRNOIR#0032](720842469024989195)
+  - Email: [hi@oirnoir.dev](mailto:hi@oirnoir.dev)
