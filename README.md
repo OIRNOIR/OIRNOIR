@@ -41,6 +41,14 @@ I am a Student and Full Stack Developer from the United States.
 
 ---
 
+### Side Projects:
+
+- Jan 2022: [Make My Link Longer](https://make-my-link-longer.xyz)
+- Mar 2023: ASCII Star Wars Websocket - Run `wscat -c wss://starwars.stupidcodeshit.xyz` to watch star wars in your terminal!
+- ??? 2023: Unannounced
+
+---
+
 ### Contact:
 
   - Discord: [OIRNOIR#0032](720842469024989195)
