@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="https://oirnoir.dev/"><img src="https://oirnoir.dev/assets/PFP-Png-2048.png" width="100"/></a>
+  <a href="https://oirnoir.dev/"><img src="https://assets.oirnoir.dev/PFP-Png-2048.png" width="100"/></a>
 	<div>he/him</div>
   <div id="badges">
     <a href="https://discord.gg/GnCHz2z6WK"><img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Badge"></a>
