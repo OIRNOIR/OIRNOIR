@@ -51,5 +51,5 @@ I am a Student and Full Stack Developer from the United States.
 
 ### Contact:
 
-  - Discord: [OIRNOIR#0032](https://discord.com/users/720842469024989195)
+  - Discord: [oirnoir](https://discord.com/users/720842469024989195)
   - Email: [hi@oirnoir.dev](mailto:hi@oirnoir.dev)
