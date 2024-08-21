@@ -42,7 +42,7 @@ I am a Student and Full Stack Developer from the United States.
   - [Kiai Bot](https://kiai.app) (API Developer)
 
 ---
-k
+
 ### Side Projects:
 
 - Jan 2022: [Make My Link Longer](https://make-my-link-longer.xyz)
