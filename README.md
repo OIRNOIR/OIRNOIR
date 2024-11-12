@@ -40,6 +40,7 @@ I am a Student and Full Stack Developer from the United States.
 - July - August 2022: [WackyWebM.js](https://github.com/OIRNOIR/WackyWebM)
 - 2023 - 2024: [Buape](https://buape.com)
   - [Kiai Bot](https://kiai.app) (API Developer)
+- Many others not listed
 
 ---
 
