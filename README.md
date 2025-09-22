@@ -8,6 +8,9 @@
 
 ---
 
+### Notice:
+If you've been redirected here from my personal site, please note that I have a new personal website in the works. Check back soon!
+
 ### About Me:
 I am a Student and Full Stack Developer from the United States.
 
