@@ -51,8 +51,8 @@ I am a Student and Full Stack Developer from the United States.
 
 - Jan 2022: [Make My Link Longer](https://make-my-link-longer.xyz)
 - Mar 2023: ASCII Star Wars Websocket - Run `wscat -c wss://starwars.oirnoir.dev` to watch star wars in your terminal!
-- Jun 2024: SmokeSignal [Backend](https://github.com/OIRNOIR/SmokeSignal-Backend) and [Frontend](https://github.com/OIRNOIR/SmokeSignal-Frontend)
-- Jul 2025: YouTube Helper [Server](https://github.com/OIRNOIR/YouTube-Helper-Server) and [Client](https://github.com/OIRNOIR/YouTube-Helper-Client)
+- Jun 2024: SmokeSignal [Backend](https://github.com/OIRNOIR/SmokeSignal-Backend) and [Frontend](https://github.com/OIRNOIR/SmokeSignal-Frontend) (Public release Oct 2025)
+- Jul 2025: YouTube Helper [Server](https://github.com/OIRNOIR/YouTube-Helper-Server) and [Client](https://github.com/OIRNOIR/YouTube-Helper-Client) (Public release Oct 2025)
 
 ---
 
