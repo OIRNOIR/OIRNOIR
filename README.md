@@ -47,7 +47,7 @@ I am a Student and Full Stack Developer from the United States.
 
 ### Side Projects:
 
-- Jan 2022: [Make My Link Longer](https://make-my-link-longer.xyz)
+- Jan 2022: [Make My Link Longer](https://github.com/OIRNOIR/Make-My-Link-Longer) (No longer online)
 - Mar 2023: ASCII Star Wars Websocket - Run `wscat -c wss://starwars.oirnoir.dev` to watch star wars in your terminal!
 - Jun 2024: SmokeSignal [Backend](https://github.com/OIRNOIR/SmokeSignal-Backend) and [Frontend](https://github.com/OIRNOIR/SmokeSignal-Frontend) (Public release Oct 2025)
 - Jul 2025: YouTube Helper [Server](https://git.oirnoir.dev/OIRNOIR/YouTube-Helper-Server) and [Client](https://git.oirnoir.dev/OIRNOIR/YouTube-Helper-Client) (Public release Oct 2025)
