@@ -15,6 +15,7 @@ I am a Student and Full Stack Developer from the United States.
   - Coding
   - Skiing
   - Reading
+  - Self-Hosting and Tinkering
 - My website: https://oirnoir.dev/
 - My Git: https://git.oirnoir.dev/
 
@@ -58,3 +59,16 @@ I am a Student and Full Stack Developer from the United States.
 
   - Discord: [oirnoir](https://discord.com/users/720842469024989195)
   - Email: [hi@oirnoir.dev](mailto:hi@oirnoir.dev)
+
+---
+
+### Where Are My Repos?
+
+I mirror my code to several different sites.
+
+- [Self-Hosted Forgejo](https://git.oirnoir.dev/OIRNOIR): Active development happens here. Home to the widest collection of my work.
+- [Codeberg](https://codeberg.org/OIRNOIR): I accept contributions to my FOSS projects via Codeberg mirrors. Go here if you want to open an issue or a PR.
+    If something isn't here and you'd like to contribute, please send me an email about it!
+- [GitHub](https://github.com/OIRNOIR): I keep this profile up for legacy / archival reasons, and so that some projects can have better discovery.
+    Everything here is either a read-only mirror, archived, or a fork of something already on GitHub that I made to open a PR somewhere else.
+- In addition, some of my work is on private GitLab and GitHub Enterprise servers for school and work. Just putting this out there to clarify that I have experience working with GitLab :)
