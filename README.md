@@ -72,3 +72,16 @@ I mirror my code to several different sites.
 - [GitHub](https://github.com/OIRNOIR): I keep this profile up for legacy / archival reasons, and so that some projects can have better discovery.
     Everything here is either a read-only mirror, archived, or a fork of something already on GitHub that I made to open a PR somewhere else.
 - In addition, some of my work is on private GitLab and GitHub Enterprise servers for school and work. Just putting this out there to clarify that I have experience working with GitLab :)
+
+---
+
+### Support Me:
+
+If you discover that you're a big fan of my work, I'd be honored if you would buy me a coffee! Just putting these links here so that they're publicly accessible.
+
+- [Ko-fi](https://ko-fi.com/oirnoir)
+- [Patreon](https://patreon.com/cinnamonbot) (Cinnamon Premium subscriptions here, not donations)
+- [GitHub Sponsors](https://github.com/sponsors/OIRNOIR)
+- Anonymous cryptocurrency donations:
+  - Bitcoin (BTC): `bc1q9ujhu6mms33qnatytur2a3f20w80u58t3zjdnn`
+  - Monero (XMR): `85EBZ6n1EWRHBQ78twwWstMBXgTQ8GJ2vM9yikF7xQn1JnYopajNTjiHhqgJmRRMYT23WtNBgotPQNdquxtfMXmJPibVMC8`
