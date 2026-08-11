@@ -79,6 +79,7 @@ I mirror my code to several different sites.
 
 If you discover that you're a big fan of my work, I'd be honored if you would buy me a coffee! Just putting these links here so that they're publicly accessible.
 
+- [LiberaPay](https://liberapay.com/OIRNOIR/)
 - [Ko-fi](https://ko-fi.com/oirnoir)
 - [Patreon](https://patreon.com/cinnamonbot) (Cinnamon Premium subscriptions here, not donations)
 - [GitHub Sponsors](https://github.com/sponsors/OIRNOIR)
