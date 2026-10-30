@@ -19,8 +19,6 @@ I am a Student and Full Stack Developer from the United States.
 - My website: https://oirnoir.dev/
 - My Git: https://git.oirnoir.dev/
 
-    I do things sometimes
-
 ---
 
 ### Languages:
